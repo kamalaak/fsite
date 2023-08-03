@@ -20,7 +20,7 @@ const closeModalButton = document.getElementById("closeModal");
 const modal = document.getElementById("joinBspModal");
 
 openModalButton.addEventListener("click", function () {
-  window.open("asse/login.html", "_blank");
+  window.open("./asse/login.html", "_blank");
 });
 
 closeModalButton.addEventListener("click", function () {
