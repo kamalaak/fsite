@@ -1,0 +1,11 @@
+/* Night mode styles */
+.night-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+/* Day mode styles */
+.day-mode {
+  background-color: #f3f4f6; /* Replace this with the background color you want for day mode */
+  color: #000; /* Replace this with the text color you want for day mode */
+}
